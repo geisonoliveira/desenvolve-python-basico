@@ -1,0 +1,5 @@
+Para saber o resultado da multiplicação do número 9 na tabuada se usa uma regra útil:
+1 - Chamaremos de N o número pelo qual o 9 vai se multiplicar
+2 - O primeiro dígito do resultado é N menos 1
+3 - O segundo dígito do resultado é 10 menos N
+4 - No final basta multiplicar o primeiro dígito por 10 e somar com o segundo dígito

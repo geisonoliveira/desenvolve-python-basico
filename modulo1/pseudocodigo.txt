@@ -1,0 +1,5 @@
+Início
+Leia X, Y;
+Z = X + Y;
+Imprima Z;
+Fim

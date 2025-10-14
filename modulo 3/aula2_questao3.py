@@ -1,0 +1,5 @@
+idade = int(input("Digite sua idade: "))
+quantidade_partidas = int(input("Quantas partidas já jogou? "))
+quantidade_vitorias = int(input("Quantos jogos já venceu? "))
+print("Apto para ingressar no clube de jogos de tabuleiro: ")
+print((idade <= 18 & idade >= 16) & (quantidade_partidas >= 3) & (quantidade_vitorias >= 1))
